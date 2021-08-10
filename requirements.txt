@@ -70,7 +70,6 @@ jupyter-require==0.6.1
 jupyter-server==1.9.0
 jupyterlab==3.1.0b0
 jupyterlab-pygments==0.1.2
-jupyterlab-requirements==0.7.4
 jupyterlab-server==2.6.0
 jupyterlab-widgets==1.0.0
 Keras==2.4.3
